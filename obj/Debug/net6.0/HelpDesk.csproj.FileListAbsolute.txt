@@ -1,0 +1,7 @@
+C:\Users\omobo\OneDrive\Desktop\HelpDesk\HelpDesk\obj\Debug\net6.0\HelpDesk.csproj.AssemblyReference.cache
+C:\Users\omobo\OneDrive\Desktop\HelpDesk\HelpDesk\obj\Debug\net6.0\HelpDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omobo\OneDrive\Desktop\HelpDesk\HelpDesk\obj\Debug\net6.0\HelpDesk.AssemblyInfoInputs.cache
+C:\Users\omobo\OneDrive\Desktop\HelpDesk\HelpDesk\obj\Debug\net6.0\HelpDesk.AssemblyInfo.cs
+C:\Users\omobo\OneDrive\Desktop\HelpDesk\HelpDesk\obj\Debug\net6.0\HelpDesk.csproj.CoreCompileInputs.cache
+C:\Users\omobo\OneDrive\Desktop\HelpDesk\HelpDesk\obj\Debug\net6.0\HelpDesk.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\omobo\OneDrive\Desktop\HelpDesk\HelpDesk\obj\Debug\net6.0\HelpDesk.MvcApplicationPartsAssemblyInfo.cache
